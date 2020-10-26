@@ -1,5 +1,5 @@
 # Electron YouTube video downloader
-A simple YouTube video downloader. Still a work-in-progress project to this day, even though I don't really want to finish it anyway ¯\_(ツ)_/¯
+A simple YouTube video downloader. Still a work-in-progress project to this day, even though I don't really want to finish it anyway 🤷
 
 ## Screenshots
 <img src="https://www.mazz.fun/assets/yt-dl.png" width="700px" />
