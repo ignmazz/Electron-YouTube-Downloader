@@ -9,7 +9,7 @@
   "author": "Mazz3015",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^13.0.1",
+    "electron": "^13.1.0",
     "electron-packager": "^15.2.0"
   },
   "dependencies": {
